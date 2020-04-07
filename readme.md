@@ -4,7 +4,7 @@
 Name: Susanna :raised_hands:  
 Major: Computer Science  
 Programming Languages:  
-* **C++** 
+* **C++**
 * Java
 * C
 * C#  
@@ -23,7 +23,7 @@ Programming Languages:
 3. THREE  
 
 ### Link  
-[Google](google.com)
+[Google](https://google.com)
 
 ### Blockquote 
 > Meow
