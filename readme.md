@@ -1,7 +1,7 @@
 # CSCI3251 Github Project
 
 ## Something about me
-Name: Susanna :raised_hands:  
+Name: Susanna :raised_hands:   
 Major: Computer Science  
 Programming Languages:  
 * **C++**
