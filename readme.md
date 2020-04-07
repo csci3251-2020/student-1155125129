@@ -12,7 +12,7 @@ Programming Languages:
 * and more (not very familiar tho)
 
 ## Playing with Markdown syntax...  
-### Unordered List  
+### Task List 
 - [x] A 
 - [ ] B
 
